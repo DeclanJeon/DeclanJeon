@@ -1,6 +1,6 @@
 안녕하세요 저는 Declan Jeon입니다.<img width="25" src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif"></img><br/>
 <hr/>
-저는 풀스택 개발자를 목표로 하고 있으며, 다양한 콘텐츠들에 관심이 많습니다.<br/>
+저는 다양한 콘텐츠들에 관심이 많습니다.<br/>
 여러 프로젝트의 레퍼런스를 보거나, 뉴스들을 보면서 대부분의 시간을 보내고 있습니다.<br/>
 
 <hr style="border:0.1 solid red;"/>
