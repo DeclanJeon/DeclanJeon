@@ -17,6 +17,7 @@ P2P 통신에 관련된 기술을 개발하고 있습니다. <br/>
 G메일 : syas0301@gmail.com <br/>
 블로그 : https://acstory.tistory.com <br/>
 스레드 : https://www.threads.com/@pons22222?hl=ko
+이력서 : https://declanjeon.github.io/resume/
 
 운영중인 사이트
 1. https://ponslink.online
