@@ -26,3 +26,4 @@ G메일 : syas0301@gmail.com <br/>
 4. https://bible.ponslink.com
 5. https://ruminate.ponslink.com
 6. https://profileforge.ponslink.com
+7. https://fatemirror.ponslink.com
