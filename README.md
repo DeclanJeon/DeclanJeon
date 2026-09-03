@@ -23,7 +23,6 @@ G메일 : syas0301@gmail.com <br/>
 1. https://ponslink.com
 2. https://warp.ponslink.com
 3. https://docuflow.ponslink.com
-4. https://bible.ponslink.com
-5. https://ruminate.ponslink.com
-6. https://profileforge.ponslink.com
-7. https://fatemirror.ponslink.com
+4. https://ruminate.ponslink.com
+5. https://profileforge.ponslink.com
+6. https://fatemirror.ponslink.com
