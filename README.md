@@ -22,6 +22,7 @@ I prefer a small, clearly scoped paid first milestone. Before work starts, we ag
 - [Ruminate](https://ruminate.ponslink.com) — Korean classical-text reflection product
 
 More projects: [GitHub](https://github.com/DeclanJeon) · [Résumé](https://ponslink.com/cv/resume-declan.pdf) · [Career profile](https://ponslink.com/cv/declan-career-doc-2026-08-13.pdf)
+Social: [Threads](https://www.threads.com/@pons33333)
 
 ## Contact
 
